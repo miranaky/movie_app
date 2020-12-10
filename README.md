@@ -1,3 +1,3 @@
 # Movie App with React.
 
-React JS
+It is my first React JS app
